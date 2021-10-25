@@ -5,7 +5,7 @@
 ## This project was completed at the University of Delaware for the class Principles of Urban Science, instructed by Dr. Federica Bianco.
 
 
-The Notebook Data_Preparation cleans and combines socioeconomic, NDVI, environemntal, and health data
+The Notebook Data_Preparation cleans and combines socioeconomic, NDVI, environmental, and health data
 
 The Notebook Urban_Green_Space_Equity_Health_Factors runs all the random forest regression models.
 
